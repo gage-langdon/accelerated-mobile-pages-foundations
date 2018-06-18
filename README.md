@@ -1,4 +1,7 @@
 # AMPle Introduction
+[Slides](https://slides.com/davidn-1/deck-2)
+
+[Original Docs](https://www.ampproject.org/docs/fundamentals/converting)
 
 ## Run server
 
