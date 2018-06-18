@@ -80,4 +80,4 @@ Regular ```<img/>``` tags are not performant so AMP has implemented their own.
 <amp-img src="mountains.jpg" layout="responsive" width="266" height="150"></amp-img>
 ```
 
-![html-layout](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")
+![html-layout](https://github.com/supercycle91/accelerated-mobile-pages-foundations/blob/master/images/html-layout.png "")
