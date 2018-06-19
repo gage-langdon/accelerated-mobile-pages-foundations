@@ -45,7 +45,7 @@ This is a requirement by AMP to avoid reinterpreting content that was before thi
 
 ## Add `link="canonical"`
 
-This points towards our non-amp version and is required by AMP. If decide to use AMP for desktop as well then you can have this point to itself.
+This points towards our non-amp version and is required by AMP. If you decide to use AMP for desktop as well, then you can have this point to itself.
 
 ```html
 <link rel="canonical" href="/article.html">
