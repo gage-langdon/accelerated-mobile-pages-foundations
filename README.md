@@ -84,3 +84,5 @@ Regular ```<img/>``` tags are not performant so AMP has implemented their own.
 ```
 
 ![html-layout](https://github.com/supercycle91/accelerated-mobile-pages-foundations/blob/master/images/html-layout.png "")
+
+-[Leave Feedback on Foreal.io](http://foreal.io/H186JFNdM)
